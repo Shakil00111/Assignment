@@ -1,0 +1,31 @@
+* {
+    background-color: white;
+    color: black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid rgb(201, 160, 240);
+    padding: 8px;
+    text-align: center;
+}
+th {
+    background-color: orange;
+    text-align: center;
+}
+caption {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+ul {
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+}
